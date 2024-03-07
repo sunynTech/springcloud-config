@@ -1,6 +1,0 @@
-com/ning/springcloud/lb/LoadBalance.class
-com/ning/springcloud/controller/OrderController.class
-com/ning/springcloud/OrderMain80.class
-com/ning/myRule/MySelfRule.class
-com/ning/springcloud/config/ApplicationContextConfig.class
-com/ning/springcloud/lb/MyLB.class
